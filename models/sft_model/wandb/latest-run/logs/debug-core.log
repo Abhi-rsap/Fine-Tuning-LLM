@@ -1,0 +1,6 @@
+{"time":"2025-07-13T00:11:49.64949598Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpqry999bf/port-19074.txt","pid":19074,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-07-13T00:11:49.650392432Z","level":"INFO","msg":"server: will exit if parent process dies","ppid":19074}
+{"time":"2025-07-13T00:11:49.650534629Z","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-19074-20886-3102478720/socket","Net":"unix"}}
+{"time":"2025-07-13T00:11:49.68957846Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-07-13T00:11:49.701982418Z","level":"INFO","msg":"handleInformInit: received","streamId":"28uvelw8","id":"1(@)"}
+{"time":"2025-07-13T00:11:49.97032475Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"28uvelw8","id":"1(@)"}

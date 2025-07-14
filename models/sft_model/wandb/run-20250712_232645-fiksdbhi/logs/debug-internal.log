@@ -1,0 +1,6 @@
+{"time":"2025-07-12T23:26:45.889306619Z","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-12T23:26:46.152618865Z","level":"INFO","msg":"stream: created new stream","id":"fiksdbhi"}
+{"time":"2025-07-12T23:26:46.15265946Z","level":"INFO","msg":"stream: started","id":"fiksdbhi"}
+{"time":"2025-07-12T23:26:46.152665734Z","level":"INFO","msg":"handler: started","stream_id":"fiksdbhi"}
+{"time":"2025-07-12T23:26:46.152717319Z","level":"INFO","msg":"sender: started","stream_id":"fiksdbhi"}
+{"time":"2025-07-12T23:26:46.15274485Z","level":"INFO","msg":"writer: Do: started","stream_id":"fiksdbhi"}

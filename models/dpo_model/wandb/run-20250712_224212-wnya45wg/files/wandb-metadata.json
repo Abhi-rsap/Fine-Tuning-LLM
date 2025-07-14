@@ -1,0 +1,35 @@
+{
+  "os":  "Linux-6.1.123+-x86_64-with-glibc2.35",
+  "python":  "CPython 3.11.13",
+  "startedAt":  "2025-07-12T22:42:12.576439Z",
+  "program":  "DPO_trainer",
+  "email":  "abhipodila1@gmail.com",
+  "root":  "/content",
+  "host":  "2aeb37fa8685",
+  "executable":  "/usr/bin/python3",
+  "colab":  "https://colab.research.google.com/notebook#fileId=1PeSzWSiQadXGCuuIUvY1rN_0LdkZPGHi",
+  "cpu_count":  1,
+  "cpu_count_logical":  2,
+  "gpu":  "Tesla T4",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "120942624768",
+      "used":  "53467402240"
+    }
+  },
+  "memory":  {
+    "total":  "13608370176"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "Tesla T4",
+      "memoryTotal":  "16106127360",
+      "cudaCores":  2560,
+      "architecture":  "Turing",
+      "uuid":  "GPU-965abfa2-be41-af05-91cb-5914f006b842"
+    }
+  ],
+  "cudaVersion":  "12.4",
+  "writerId":  "s62f8v4z0tjuzyyrun09ue9oulzox3fk"
+}

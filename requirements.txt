@@ -1,0 +1,13 @@
+transformers
+trl
+unsloth
+pandas
+numpy
+seaborn
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch==2.7.1+cu126
+tqdm
+matplotlib
+wandb
+langchain
+streamlit

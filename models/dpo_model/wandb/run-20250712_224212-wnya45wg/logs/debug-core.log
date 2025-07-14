@@ -1,0 +1,6 @@
+{"time":"2025-07-12T22:42:12.937920815Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmp3pvn5e77/port-5658.txt","pid":5658,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-07-12T22:42:12.939852172Z","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-5658-7853-229712707/socket","Net":"unix"}}
+{"time":"2025-07-12T22:42:12.939878844Z","level":"INFO","msg":"server: will exit if parent process dies","ppid":5658}
+{"time":"2025-07-12T22:42:13.014267462Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-07-12T22:42:13.039857619Z","level":"INFO","msg":"handleInformInit: received","streamId":"wnya45wg","id":"1(@)"}
+{"time":"2025-07-12T22:42:13.29087016Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"wnya45wg","id":"1(@)"}

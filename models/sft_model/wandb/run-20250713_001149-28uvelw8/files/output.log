@@ -1,0 +1,69 @@
+Unsloth: Will smartly offload gradients to save VRAM!
+[34m[1mwandb[0m: [33mWARNING[0m The get_url method is deprecated and will be removed in a future release. Please use `run.url` instead.
+system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 July 2024
+
+user
+
+Design a conversation between a customer and a customer service agent.assistant
+
+Customer: Hi, I'm having some issues with my order. The product I received does not match the one I ordered.
+
+Customer Service Agent: I apologize for the inconvenience. Can you please provide me with your order number so that I can look into this further?
+
+Customer: My order number is #1234. I also ordered a different color, but I received a product that is a different color.
+
+Customer Service Agent: I apologize for the mistake. I will go ahead and check on the status of your order. Can you please confirm the color you ordered, so I can ensure that the correct product is sent out to you?
+
+Customer: The correct color is blue. I ordered a blue shirt, but I received a yellow shirt.
+
+Customer Service Agent: Thank you for the confirmation. I have checked on the status of your order and I can see that there was an error in the shipping address. I have updated your address and I will send out the correct product to you right away.
+
+Customer: Great, thank you so much for your help. I really appreciate it.
+
+Customer Service Agent: You're welcome, please let me know if there's anything else I can assist you with.
+  adding: content/ (stored 0%)
+  adding: content/.config/ (stored 0%)
+  adding: content/.config/default_configs.db (deflated 98%)
+  adding: content/.config/gce (stored 0%)
+  adding: content/.config/logs/ (stored 0%)
+  adding: content/.config/logs/2025.07.10/ (stored 0%)
+  adding: content/.config/logs/2025.07.10/13.34.37.820504.log (deflated 58%)
+  adding: content/.config/logs/2025.07.10/13.33.45.486303.log (deflated 92%)
+  adding: content/.config/logs/2025.07.10/13.34.38.537881.log (deflated 57%)
+  adding: content/.config/logs/2025.07.10/13.34.23.548658.log (deflated 86%)
+  adding: content/.config/logs/2025.07.10/13.34.14.671755.log (deflated 58%)
+  adding: content/.config/logs/2025.07.10/13.34.29.179991.log (deflated 58%)
+  adding: content/.config/configurations/ (stored 0%)
+  adding: content/.config/configurations/config_default (deflated 15%)
+  adding: content/.config/.last_survey_prompt.yaml (stored 0%)
+  adding: content/.config/config_sentinel (stored 0%)
+  adding: content/.config/.last_opt_in_prompt.yaml (stored 0%)
+  adding: content/.config/active_config (stored 0%)
+  adding: content/.config/.last_update_check.json (deflated 24%)
+  adding: content/.config/hidden_gcloud_config_universe_descriptor_data_cache_configs.db (deflated 97%)
+  adding: content/unsloth_compiled_cache/ (stored 0%)
+  adding: content/unsloth_compiled_cache/UnslothDPOTrainer.py (deflated 78%)
+  adding: content/unsloth_compiled_cache/UnslothPRMTrainer.py (deflated 76%)
+  adding: content/unsloth_compiled_cache/UnslothBCOTrainer.py (deflated 78%)
+  adding: content/unsloth_compiled_cache/UnslothIterativeSFTTrainer.py (deflated 77%)
+  adding: content/unsloth_compiled_cache/UnslothSFTTrainer.py (deflated 76%)
+  adding: content/unsloth_compiled_cache/UnslothAlignPropTrainer.py (deflated 74%)
+  adding: content/unsloth_compiled_cache/UnslothGKDTrainer.py (deflated 76%)
+  adding: content/unsloth_compiled_cache/UnslothCPOTrainer.py (deflated 77%)
+  adding: content/unsloth_compiled_cache/UnslothGRPOTrainer.py (deflated 77%)
+  adding: content/unsloth_compiled_cache/UnslothKTOTrainer.py (deflated 79%)
+  adding: content/unsloth_compiled_cache/UnslothPPOTrainer.py (deflated 77%)
+  adding: content/unsloth_compiled_cache/UnslothXPOTrainer.py (deflated 77%)
+  adding: content/unsloth_compiled_cache/__pycache__/ (stored 0%)
+  adding: content/unsloth_compiled_cache/__pycache__/UnslothDPOTrainer.cpython-311.pyc (deflated 60%)
+  adding: content/unsloth_compiled_cache/__pycache__/UnslothIterativeSFTTrainer.cpython-311.pyc (deflated 56%)
+  adding: content/unsloth_compiled_cache/__pycache__/UnslothKTOTrainer.cpython-311.pyc (deflated 59%)
+  adding: content/unsloth_compiled_cache/__pycache__/UnslothPPOTrainer.cpython-311.pyc (deflated 55%)
+  adding: content/unsloth_compiled_cache/__pycache__/UnslothRLOOTrainer.cpython-311.pyc (deflated 55%)
+  adding: content/unsloth_compiled_cache/__pycache__/UnslothDDPOTrainer.cpython-311.pyc (deflated 58%)
+  adding: content/unsloth_compiled_cache/__pycache__/UnslothXPOTrainer.cpython-311.pyc (deflated 55%)
+  adding: content/unsloth_compiled_cache/__pycache__/UnslothORPOTrainer.cpython-311.pyc (deflated 57%)
+  adding: content/unsloth_compiled_cache/__pycache__/UnslothSFTTrainer.cpython-311.pyc

@@ -1,0 +1,7 @@
+{"time":"2025-07-12T23:26:45.845940785Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpu2coqlnt/port-2177.txt","pid":2177,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-07-12T23:26:45.848360764Z","level":"INFO","msg":"server: will exit if parent process dies","ppid":2177}
+{"time":"2025-07-12T23:26:45.848245637Z","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-2177-4361-1589198759/socket","Net":"unix"}}
+{"time":"2025-07-12T23:26:45.871887098Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-07-12T23:26:45.889153648Z","level":"INFO","msg":"handleInformInit: received","streamId":"fiksdbhi","id":"1(@)"}
+{"time":"2025-07-12T23:26:46.152672976Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"fiksdbhi","id":"1(@)"}
+{"time":"2025-07-12T23:30:36.201908227Z","level":"INFO","msg":"server: parent process exited, terminating service process"}
