@@ -109,8 +109,8 @@ To evaluate alignment quality and human preference adherence, we used the **DeBE
 ### Local Setup
 
 ```bash
-git clone https://github.com/yourname/improved-llama-agent.git
-cd improved-llama-agent
+git clone https://github.com/Abhi-rsap/Fine-Tuning-LLM.git
+cd Fine-Tuning-LLM
 docker build -t llama-agent .
 docker run -p 8501:8501 llama-agent
 ```
